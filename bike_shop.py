@@ -16,7 +16,7 @@ class bike_type:
         print("Vruuummm")
 
 
-bike_type_01 = bike_type ("Red", "Caloi", 2020, 700)
+bike_type_01 = bike_type ("Red", "Caloi", 2020, 800)
 bike_type_01.beep_bike()
 bike_type_01.stop_bike()
 bike_type_01.to_run()
