@@ -25,6 +25,7 @@ print(bike_type_01.color)
 
 bike_type_02 = bike_type ("Blue", "Monark", 2000, 500)
 bike_type_02.beep_bike()
+bike_type_02.stop_bike()
 
 
 
